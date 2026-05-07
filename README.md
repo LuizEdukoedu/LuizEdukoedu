@@ -34,6 +34,12 @@ Atualmente estou cursando engenharia da computação no UniCeub.
             src="https://custom-icon-badges.demolab.com/github/followers/LuizEdukoedu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <div align="left">
+  <a href="https://www.linkedin.com/in/koedu-luiz-ribeiro-cavalcante-aa5193409/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
     
 👷🏻‍♂️ Linguagens e aplicativos que sei usar:
 
