@@ -36,7 +36,7 @@ Atualmente estou cursando engenharia da computação no UniCeub.
     </a>
 </p>
 
-### 👷🏻‍♂️ Sei usar:
+### 👷🏻‍♂️ Linguagens e aplicativos que sei usar:
 
 <img 
     align="left" 
