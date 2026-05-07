@@ -35,8 +35,7 @@ Atualmente estou cursando engenharia da computação no UniCeub.
         />
     </a>
 </p>
-
-### 👷🏻‍♂️ Linguagens e aplicativos que sei usar:
+## 👷🏻‍♂️ Linguagens e aplicativos que sei usar:
 
 <img 
     align="left" 
@@ -70,5 +69,3 @@ Atualmente estou cursando engenharia da computação no UniCeub.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
 />
-
-
