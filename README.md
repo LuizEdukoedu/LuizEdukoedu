@@ -35,7 +35,7 @@ Atualmente estou cursando engenharia da computação no UniCeub.
         />
     </a>
     <div align="left">
-  <a href="https://www.linkedin.com/in/luiz-eduardo-ribeiro-cavalcante-aa5193409/">
+  <a href="">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
