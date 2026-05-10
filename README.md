@@ -4,7 +4,7 @@
 
 Olá, chamo-me Luiz. Aos meus 6 anos ganhei o meu primeiro console, um Xbox 360, desde então despertei um grande interesse por tecnologias.
 Gosto de aproveitar meu tempo livre jogando xadrez, jogos online, e criando meus próprios jogos e animações 3D.  
-Atualmente estou cursando engenharia da computação no UniCeub.
+Atualmente estou cursando engenharia da computação no UniCeub. Para saber mais sobre mim acesse o repositório de documentos.
 <p align="left">
     <a href="https://www.youtube.com/@Koedu_br?sub_confirmation=1">
         <img 
